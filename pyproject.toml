@@ -1,0 +1,3 @@
+[tool.pylint.message_control]
+disable="all"
+enable="W0611,W0614"
