@@ -22,7 +22,7 @@ install_requires = [
     "jupyter>=1.0.0",
     "matplotlib==3.5.2",
     "networkx==2.8.1",
-    "notebook==6.4.11",
+    "notebook==6.4.12",
     "numpy>=1.22.4",
     "tqdm",
     "pandas",
