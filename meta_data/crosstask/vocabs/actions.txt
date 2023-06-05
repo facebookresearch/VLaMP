@@ -1,0 +1,108 @@
+@@UNKNOWN@@
+stir mixture<|eoa|>
+<|sact|><|eoa|>
+<|eact|><|eoa|>
+whisk mixture<|eoa|>
+add sugar<|eoa|>
+pour water<|eoa|>
+pour milk<|eoa|>
+pour egg<|eoa|>
+dip bread in mixture<|eoa|>
+put bread in pan<|eoa|>
+pour mixture into pan<|eoa|>
+add onion<|eoa|>
+flip pancake<|eoa|>
+flip bread<|eoa|>
+flip steak<|eoa|>
+cut steak<|eoa|>
+pour alcohol<|eoa|>
+assemble shelve<|eoa|>
+add flour<|eoa|>
+close lid<|eoa|>
+cut shelve<|eoa|>
+melt butter<|eoa|>
+put steak on grill<|eoa|>
+remove bread from pan<|eoa|>
+season steak<|eoa|>
+open lid<|eoa|>
+take pancake from pan<|eoa|>
+add curry leaves<|eoa|>
+add fish<|eoa|>
+pull out dipstick<|eoa|>
+stir<|eoa|>
+top toast<|eoa|>
+insert dipstick<|eoa|>
+pour mixture into cup<|eoa|>
+take steak from grill<|eoa|>
+pour oil<|eoa|>
+pour jello powder<|eoa|>
+add chili powder<|eoa|>
+spread creme upon cake<|eoa|>
+taste steak<|eoa|>
+pour espresso<|eoa|>
+remove cap<|eoa|>
+mix ingredients<|eoa|>
+pour lemon juice<|eoa|>
+add vanilla extract<|eoa|>
+jack up<|eoa|>
+tight wheel<|eoa|>
+wipe off dipstick<|eoa|>
+raise jack<|eoa|>
+add strawberries to cake<|eoa|>
+attach shelve<|eoa|>
+get things out<|eoa|>
+jack down<|eoa|>
+unscrew wheel<|eoa|>
+screw wheel<|eoa|>
+squeeze lemon<|eoa|>
+close cap<|eoa|>
+pour lemonade into glass<|eoa|>
+withdraw wheel<|eoa|>
+start loose<|eoa|>
+pour sesame oil<|eoa|>
+add rice<|eoa|>
+add kimchi<|eoa|>
+paint shelve<|eoa|>
+add meat<|eoa|>
+put wheel<|eoa|>
+add whipped cream<|eoa|>
+sand shelve<|eoa|>
+put bananas into blender<|eoa|>
+add lettuce<|eoa|>
+add mustard seeds<|eoa|>
+put funnel<|eoa|>
+spread mixture<|eoa|>
+cut lemon<|eoa|>
+put dough into form<|eoa|>
+add cheese<|eoa|>
+pour juice<|eoa|>
+add tomato<|eoa|>
+pack cucumbers in jar<|eoa|>
+add spices<|eoa|>
+add butter<|eoa|>
+add ham<|eoa|>
+check temperature<|eoa|>
+lower jack<|eoa|>
+remove funnel<|eoa|>
+cut banana<|eoa|>
+add tortilla<|eoa|>
+put meringue into oven<|eoa|>
+seal jar<|eoa|>
+top steak<|eoa|>
+pour vinegar<|eoa|>
+cut strawberries<|eoa|>
+put mixture into bag<|eoa|>
+add coffee<|eoa|>
+add ice<|eoa|>
+add salt<|eoa|>
+add taco<|eoa|>
+cut cucumber<|eoa|>
+peel banana<|eoa|>
+steam milk<|eoa|>
+move steak on grill<|eoa|>
+brake on<|eoa|>
+press coffee<|eoa|>
+put jar in water<|eoa|>
+put vegetables in water<|eoa|>
+put things back<|eoa|>
+cut onion<|eoa|>
