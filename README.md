@@ -183,7 +183,7 @@ Download pretrained models:
 | COIN      	| pi1vd8h6 	| 1YZc0CbwEJGz9PMRj3a7YoWS50qis2Xn1 	|
 
 
-Download each model by opening `https://drive.google.com/u/3/uc?id={{drive id}}&export=download` and then unzip each model into separate directory. 
+Download each model by opening `https://drive.google.com/drive/u/2/folders/18HY0QhP4_FEKSql6LqOhydUbCa_34h_X` and then unzip each model into separate directory. 
 
 
 # Running the eval
